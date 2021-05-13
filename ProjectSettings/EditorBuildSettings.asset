@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SelectScene.unity
+    guid: c8c0f80b99cd946ec9bc9a082caf899d
+  - enabled: 1
+    path: Assets/EarthPlayScene.unity
+    guid: 43ba92a8ba34c4cd28afbd888af89e6f
+  - enabled: 1
+    path: Assets/EnceladuPlayScene.unity
+    guid: f46902b77dcf3410da11531ed9083bd2
+  - enabled: 1
+    path: Assets/GanymedePlayScene.unity
+    guid: 787c7314b1cc34a75957e56b33c93afd
+  - enabled: 1
+    path: Assets/JunoPlayScene.unity
+    guid: eb6224348fe004e50bab3d6ae06e2e82
+  - enabled: 1
+    path: Assets/JupiterPlayScene.unity
+    guid: 7077f2811665a4477acce1429b653a99
+  - enabled: 1
+    path: Assets/KeplerPlayScene.unity
+    guid: 9ac2b84d82c2d4ee4ab3758aca232fe8
+  - enabled: 1
+    path: Assets/Kepler2PlayScene.unity
+    guid: 6737219fffb3241f086720208adbbf7a
+  - enabled: 1
+    path: Assets/PlasmaPlayScene.unity
+    guid: aadc71e98abdc4f859689e608192179b
+  - enabled: 1
+    path: Assets/Saturn1PlayScene.unity
+    guid: 01ac7060845cf419698784eabb87de91
+  - enabled: 1
+    path: Assets/Saturn2PlayScene.unity
+    guid: 22e969e9643cc45d7ab611d1562344f4
+  - enabled: 1
+    path: Assets/Saturn3PlayScene.unity
+    guid: d05021b7ce5f642a69c0da91dbbe8c37
+  - enabled: 1
+    path: Assets/Voyager1PlayScene.unity
+    guid: cac26c734f7ee46a1bea716dd7f9f540
+  - enabled: 1
+    path: Assets/Voyager2PlayScene.unity
+    guid: b32347e578e794d69bd3bdce37b1ecdd
+  m_configObjects: {}
